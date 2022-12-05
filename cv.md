@@ -21,6 +21,7 @@ Telegram: @cattcus
 As testing engineer, I am an expert in functional testing of web and desktop applications, requirements analysis, 
 test cases creation and maintenance, defects tracking, reporting test results. 
 As automation QA, I have experience in creating and maintaining framework for API tests using python, pytest, sqlalchemy, wiremock.
+
 -----------
 ### Code example:
 
