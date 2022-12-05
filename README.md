@@ -2,4 +2,4 @@
 
 ### Requirements
 
-* Python 3.8
+https://GITHUB-USERNAME.github.io/rsschool-cv/cv
